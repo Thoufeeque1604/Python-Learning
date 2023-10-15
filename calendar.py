@@ -7,4 +7,3 @@ datetime_str = datetime.datetime.strptime(date_time, format)
 
 print(datetime_str)
 
-#did a comment to see changes in GIT
